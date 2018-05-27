@@ -15,5 +15,7 @@ make Mr Fredrik Chistenson responsible legally or otherwise
 for any but not limited to of the following:
 
 Confusing code
+
 Angry coworkers
+
 Mean stackoverflow comments
