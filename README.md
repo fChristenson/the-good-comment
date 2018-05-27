@@ -12,7 +12,7 @@ Highly subjective opinions ahead, continue at own risk.
 
 The opinions presented by Mr Fredrik Christenson does not 
 make Mr Fredrik Chistenson responsible legally or otherwise 
-for any but not limited to of the following:
+for any but not limited to the following:
 
 Confusing code
 
